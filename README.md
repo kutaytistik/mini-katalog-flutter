@@ -1,16 +1,92 @@
-# mini_katalog
+# 📱 Mini Katalog Flutter App
 
-A new Flutter project.
+A simple **Mini Catalog Mobile Application** built with **Flutter**.  
+This project demonstrates the fundamentals of Flutter such as UI design, navigation, state management, and API-based product listing.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏠 Home screen with product listing
+- 🔍 Search products
+- 📂 Category navigation
+- ⭐ Favorite products system
+- 🛒 Shopping cart system
+- ➕ Increase / decrease product quantity
+- 📦 Product detail page
+- 🔥 Flash deals section
+- 🏷 Top brands showcase
+- 📱 Responsive mobile UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Technologies Used
+
+- Flutter
+- Dart
+- Provider (State Management)
+- REST API
+- Material Design UI
+
+---
+
+## 📂 Project Structure
+
+```
+lib
+ ┣ core
+ ┃ ┗ constants.dart
+ ┣ models
+ ┃ ┗ product.dart
+ ┣ providers
+ ┃ ┣ cart_provider.dart
+ ┃ ┗ favorite_provider.dart
+ ┣ services
+ ┃ ┗ api_service.dart
+ ┣ screens
+ ┃ ┣ home
+ ┃ ┣ product
+ ┃ ┣ cart
+ ┃ ┣ favorites
+ ┃ ┣ category
+ ┃ ┗ profile
+ ┣ widgets
+ ┃ ┣ product_card.dart
+ ┃ ┣ banner_slider.dart
+ ┃ ┣ category_chip.dart
+ ┃ ┣ top_brands.dart
+ ┃ ┣ flash_sale.dart
+ ┃ ┗ product_slider.dart
+ ┗ main.dart
+```
+
+---
+
+## 📸 Screens
+
+Example screens included in the app:
+
+- Home Screen
+- Product Detail Screen
+- Favorites Screen
+- Cart Screen
+- Category Screen
+
+---
+
+
+## 📊 Learning Objectives
+
+This project was developed as part of a Flutter training program and aims to demonstrate:
+
+- Flutter widget architecture
+- Page navigation using Navigator
+- Grid-based product UI
+- API data fetching
+- Basic state management
+- Mobile UI design principles
+
+---
+
+
+⭐ If you like this project, consider giving it a star!
