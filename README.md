@@ -72,11 +72,16 @@ Example screens included in the app:
 - Cart Screen
 - Category Screen
 
-<img width="1017" height="1944" alt="1png" src="https://github.com/user-attachments/assets/4fa211d4-c0c6-4b1c-92f0-1ff3441fd251" />
-<img width="1017" height="1932" alt="2" src="https://github.com/user-attachments/assets/80b764ba-ca55-4b27-b00c-dd9df9d0659c" />
-<img width="1028" height="1941" alt="3" src="https://github.com/user-attachments/assets/54606a0c-47ae-42fd-9d90-e8bfed963920" />
-<img width="1017" height="1937" alt="4" src="https://github.com/user-attachments/assets/51ef06c9-be2f-48fd-855f-8a34e2b42104" />
-<img width="1010" height="1939" alt="5" src="https://github.com/user-attachments/assets/33ef1330-98b6-435e-8dcb-b3f0f2988a16" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4fa211d4-c0c6-4b1c-92f0-1ff3441fd251" width="220"/>
+  <img src="https://github.com/user-attachments/assets/80b764ba-ca55-4b27-b00c-dd9df9d0659c" width="220"/>
+  <img src="https://github.com/user-attachments/assets/54606a0c-47ae-42fd-9d90-e8bfed963920" width="220"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51ef06c9-be2f-48fd-855f-8a34e2b42104" width="220"/>
+  <img src="https://github.com/user-attachments/assets/33ef1330-98b6-435e-8dcb-b3f0f2988a16" width="220"/>
+</p>/>
 
 ---
 
