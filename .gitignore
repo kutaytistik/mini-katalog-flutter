@@ -1,0 +1,88 @@
+# =========================
+# Flutter / Dart
+# =========================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# Flutter metadata
+.metadata
+
+# Generated files
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# =========================
+# Android
+# =========================
+android/.gradle/
+android/app/debug
+android/app/profile
+android/app/release
+
+# =========================
+# iOS
+# =========================
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Generated.xcconfig
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+
+# =========================
+# macOS
+# =========================
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# =========================
+# Linux
+# =========================
+linux/flutter/generated_plugin_registrant.*
+
+# =========================
+# Windows
+# =========================
+windows/flutter/generated_plugin_registrant.*
+
+# =========================
+# IDE / Editor
+# =========================
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# =========================
+# Logs
+# =========================
+*.log
+*.class
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary files
+# =========================
+*.swp
+*.pyc
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+
+# =========================
+# Obfuscation
+# =========================
+app.*.map.json
+app.*.symbols
