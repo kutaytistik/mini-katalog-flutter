@@ -73,15 +73,17 @@ Example screens included in the app:
 - Category Screen
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4fa211d4-c0c6-4b1c-92f0-1ff3441fd251" width="220"/>
-  <img src="https://github.com/user-attachments/assets/80b764ba-ca55-4b27-b00c-dd9df9d0659c" width="220"/>
+  <img src="https://github.com/user-attachments/assets/4fa211d4-c0c6-4b1c-92f0-1ff3441fd251" width="220" style="margin-right:20px;"/>
+  <img src="https://github.com/user-attachments/assets/80b764ba-ca55-4b27-b00c-dd9df9d0659c" width="220" style="margin-right:20px;"/>
   <img src="https://github.com/user-attachments/assets/54606a0c-47ae-42fd-9d90-e8bfed963920" width="220"/>
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/51ef06c9-be2f-48fd-855f-8a34e2b42104" width="220"/>
+  <img src="https://github.com/user-attachments/assets/51ef06c9-be2f-48fd-855f-8a34e2b42104" width="220" style="margin-right:20px;"/>
   <img src="https://github.com/user-attachments/assets/33ef1330-98b6-435e-8dcb-b3f0f2988a16" width="220"/>
-</p>/>
+</p>
 
 ---
 
